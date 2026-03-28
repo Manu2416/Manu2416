@@ -4,7 +4,7 @@
 
 <br>
 
-<h1>💫 Sobre mí:</h1>
+<h1>💫 About me</h1>
 <hr/>
 
 <p>
