@@ -12,10 +12,10 @@
 </p>
 
 <ul>
-  <li>🎓 <b>Formación previa:</b> He completado mis estudios en [Nombre de tu grado o curso anterior, ej: Grado Medio de SMR].</li>
-  <li>📚 <b>Actualmente:</b> Estoy profundizando en mis estudios de [Nombre de lo que estudias ahora, ej: Desarrollo de Aplicaciones Web].</li>
+  <li>🎓 <b>Formación previa:</b> He completado mis estudios en Desarrollo de aplicaciones Web, (DAW).</li>
+  <li>📚 <b>Actualmente:</b> Estoy ampliando conocimiento en la Especialización de IA && BIGDATA.</li>
   <li>🚀 <b>Mi objetivo:</b> Estoy buscando activamente mi primera oportunidad en un <b>proyecto real</b>. Me motiva enfrentarme a retos técnicos de verdad para aprender de entornos profesionales y colaborar con otros desarrolladores.</li>
-  <li>💡 <b>Actitud:</b> Soy una persona entusiasta, proactiva y convencida de que la mejor forma de aprender es "picando código" y resolviendo problemas.</li>
+  <li>💡 <b>Actitud:</b> Desarrollador entusiasta centrado en la resolución de problemas y el aprendizaje continuo a través de la práctica constante.</li>
 </ul>
 
 # 💻 Tech Stack:
