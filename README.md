@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Manuel García <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" width="30" alt="Bandera de España"> </h1>
+<h1 align="center">Hola, soy Manuel García </h1>
 <h1>💫 Sobre mí</h1>
 <hr/>
 
