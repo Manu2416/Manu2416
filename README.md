@@ -18,5 +18,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Manu2416&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Manu2416&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu2416&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu2416&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/manu2416/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu2416&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Manu2416/github-readme-stats)
 
