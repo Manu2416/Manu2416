@@ -15,9 +15,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)   
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Manu2416&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Manu2416&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu24416&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--
 **Manu2416/Manu2416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
