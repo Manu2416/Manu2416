@@ -1,8 +1,22 @@
-<h1 align="center">Hola , Soy Manuel García <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h1>💫 About Me:</h1>
-<hr/>
-<h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h1 align="center">Hola, soy Manuel García <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h3 align="center">Desarrollador en formación | Apasionado por el aprendizaje continuo</h3>
+
 <br>
+
+<h1>💫 Sobre mí:</h1>
+<hr/>
+
+<p>
+👋 ¡Hola! Soy un desarrollador con muchas ganas de aportar y seguir creciendo. Mi enfoque actual es consolidar mis bases y llevar mis conocimientos al siguiente nivel a través de la práctica constante.
+</p>
+
+<ul>
+  <li>🎓 <b>Formación previa:</b> He completado mis estudios en [Nombre de tu grado o curso anterior, ej: Grado Medio de SMR].</li>
+  <li>📚 <b>Actualmente:</b> Estoy profundizando en mis estudios de [Nombre de lo que estudias ahora, ej: Desarrollo de Aplicaciones Web].</li>
+  <li>🚀 <b>Mi objetivo:</b> Estoy buscando activamente mi primera oportunidad en un <b>proyecto real</b>. Me motiva enfrentarme a retos técnicos de verdad para aprender de entornos profesionales y colaborar con otros desarrolladores.</li>
+  <li>💡 <b>Actitud:</b> Soy una persona entusiasta, proactiva y convencida de que la mejor forma de aprender es "picando código" y resolviendo problemas.</li>
+</ul>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
