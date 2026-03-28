@@ -1,5 +1,8 @@
 <h1 align="center">Hola , Soy Manuel García <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+### 🤵 About Me:
+<hr/>
+<h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,5 +21,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Manu2416&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Manu2416&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu2416&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Estadísticas de Manu2416](https://github-readme-stats.vercel.app/api?username=Manu2416&show_icons=true&theme=dark)
+
 
