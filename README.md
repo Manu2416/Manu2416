@@ -8,7 +8,7 @@
 
 <ul>
   <li>🎓 <b>Formación previa:</b> He completado mis estudios en Desarrollo de aplicaciones Web, (DAW).</li>
-  <li>📚 <b>Actualmente:</b> Estoy ampliando conocimiento en la Especialización de IA && BIGDATA.</li>
+  <li>📚 <b>Actualmente:</b> Estoy ampliando conocimiento en la Especialización de IA & BIGDATA.</li>
   <li>🚀 <b>Mi objetivo:</b> Estoy buscando activamente mi primera oportunidad en un <b>proyecto real</b>. Me motiva enfrentarme a retos técnicos de verdad para aprender de entornos profesionales y colaborar con otros desarrolladores.</li>
   <li>💡 <b>Actitud:</b> Desarrollador entusiasta centrado en la resolución de problemas y el aprendizaje continuo a través de la práctica constante.</li>
 </ul>
