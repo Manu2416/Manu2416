@@ -3,7 +3,7 @@
 <hr/>
 
 <p>
-👋 ¡Hola! Soy un desarrollador con muchas ganas de aportar y seguir creciendo. Mi enfoque actual es consolidar mis bases y llevar mis conocimientos al siguiente nivel a través de la práctica constante.
+👋 Soy un desarrollador con muchas ganas de aportar y seguir creciendo. Mi enfoque actual es consolidar mis bases y llevar mis conocimientos al siguiente nivel a través de la práctica constante.
 </p>
 
 <ul>
